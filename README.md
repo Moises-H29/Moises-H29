@@ -1,6 +1,6 @@
 ![GitHub Header](img/header.png)
 # 💫 About Me:
-🌱 I’m currently learning **about algorithms and computer science** <br>🧠 **Applied Mathematics & CS student** at [UNAM](https://www.unam.mx/) in Mexico<br>
+🌱 I’m currently learning **about algorithms and computer science** <br>👨🏻‍💻 Software developer located in Mexico City <br>🧠 **Applied Mathematics & CS student** at [UNAM](https://www.unam.mx/) in Mexico<br>
 
 
 ## 🌐 Socials:
