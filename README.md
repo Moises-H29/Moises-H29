@@ -1,6 +1,6 @@
 ![GitHub Header](img/header.png)
 # 💫 About Me:
-👋 **Hi everyone, I'm Moises Hernandez** <br>🌱 I’m currently learning **about algorithms, cryptography and computer science** <br>👨🏻‍💻 Fullstack developer located in Mexico City <br>🧠 **Applied Mathematics & CS student** at [UNAM](https://www.unam.mx/) in Mexico<br>
+👋 **Hi everyone, I'm Moises Hernandez** <br>🌱 I’m currently learning **about algorithms, cryptography and computer science** <br>👨🏻‍💻 Fullstack developer located in Mexico City <br>🧠 **Applied Mathematics & CS student** at [UNAM](https://www.unam.mx/) in Mexico<br> 🔎 I'm looking to collaborate in technology communities in Mexico and the rest of the world<br>
 
 
 ## 🌐 Socials:
